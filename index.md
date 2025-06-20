@@ -1,3 +1,10 @@
 ---
-title: Welcome to my blog!
+title: kakigorimochi
 ---
+
+
+# Hello world
+
+```
+Hi blog, welcome to my guys!
+```
